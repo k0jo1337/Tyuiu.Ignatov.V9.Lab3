@@ -6,7 +6,7 @@ using SolveCalculate.Lib;
 using SolveArray.Lib;
 
 
-namespace Tyuiu.ShutnikovaST.Lab3.Review.V12
+namespace Tyuiu.Ignatov.Lab3.Review.V9
 {
     internal class Program
     {
